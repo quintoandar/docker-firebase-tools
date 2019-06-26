@@ -5,7 +5,7 @@ FROM node:8.15.0-alpine
 USER node
 ENV NPM_CONFIG_PREFIX=/home/node/.npm-global
 ENV PATH=$PATH:/home/node/.npm-global/bin
-RUN npm install -g firebase-tools@7.0.1
+RUN npm install -g firebase-tools@7.0.2
 
 # reset user
 USER root
