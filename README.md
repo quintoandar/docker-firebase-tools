@@ -7,12 +7,13 @@ This docker image contains the minimum requirements for deploying a Firebase pro
 ## Current versions
 
 - [node 8.15.0-alpine](https://github.com/mhart/alpine-node/releases/tag/8.15.0)
-- [firebase-tools 7.5.0](https://github.com/firebase/firebase-tools/releases/tag/v7.5.0)
+- [firebase-tools 7.6.0](https://github.com/firebase/firebase-tools/releases/tag/v7.6.0)
 
 ## History
 
 | firebase-tools |       node       |                                             release                                            |
 |:--------------:|:----------------:|:----------------------------------------------------------------------------------------------:|
+|      7.6.0     |   8.15.0-alpine  | [7.6.0_8.15.0](https://github.com/quintoandar/docker-firebase-tools/releases/tag/7.6.0_8.15.0) |
 |      7.5.0     |   8.15.0-alpine  | [7.5.0_8.15.0](https://github.com/quintoandar/docker-firebase-tools/releases/tag/7.5.0_8.15.0) |
 |      7.4.0     |   8.15.0-alpine  | [7.4.0_8.15.0](https://github.com/quintoandar/docker-firebase-tools/releases/tag/7.4.0_8.15.0) |
 |      7.3.2     |   8.15.0-alpine  | [7.3.2_8.15.0](https://github.com/quintoandar/docker-firebase-tools/releases/tag/7.3.2_8.15.0) |
