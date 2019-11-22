@@ -4,13 +4,14 @@ This docker image contains the minimum requirements for managing and deploying c
 
 ## Current version
 
-- [firebase-tools 7.8.0](https://github.com/firebase/firebase-tools/releases/tag/v7.8.0)
+- [firebase-tools 7.8.1](https://github.com/firebase/firebase-tools/releases/tag/v7.8.1)
 - [node 8.15.0-alpine](https://github.com/mhart/alpine-node/releases/tag/8.15.0) (base image)
 
 ## Previous versions
 
-[7.7.0](https://github.com/quintoandar/docker-firebase-tools/releases/tag/7.7.0_8.15.0) |
-[7.6.2](https://github.com/quintoandar/docker-firebase-tools/releases/tag/7.6.2_8.15.0) |
+[7.8.0](https://github.com/quintoandar/docker-firebase-tools/releases/tag/v7.8.0)       |
+[7.7.0](https://github.com/quintoandar/docker-firebase-tools/releases/tag/v7.7.0)       |
+[7.6.2](https://github.com/quintoandar/docker-firebase-tools/releases/tag/v7.6.2)       |
 [7.6.1](https://github.com/quintoandar/docker-firebase-tools/releases/tag/7.6.1_8.15.0) |
 [7.6.0](https://github.com/quintoandar/docker-firebase-tools/releases/tag/7.6.0_8.15.0) |
 [7.5.0](https://github.com/quintoandar/docker-firebase-tools/releases/tag/7.5.0_8.15.0) |
