@@ -1,4 +1,4 @@
-FROM node:8.15.0-alpine
+FROM node:12.13.1-alpine
 
 # install global dependency as non-root user
 # https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md#global-npm-dependencies
