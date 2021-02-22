@@ -4,8 +4,8 @@ This docker image contains the minimum requirements for managing and deploying c
 
 ## Current version
 
-- [firebase-tools 7.16.2](https://github.com/firebase/firebase-tools/releases/tag/v7.16.2)
-- [node 8.15.0-alpine](https://github.com/mhart/alpine-node/releases/tag/8.15.0) (base image)
+- [firebase-tools 9.4.0](https://github.com/firebase/firebase-tools/releases/tag/v9.4.0)
+- [Node.js 10 (Alpine)](https://github.com/mhart/alpine-node/releases/tag/10) (base image)
 
 ## Previous versions
 
