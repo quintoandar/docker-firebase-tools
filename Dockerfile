@@ -1,4 +1,4 @@
-FROM node:16.19
+FROM node:16
 
 # install global dependency as non-root user
 # https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md#global-npm-dependencies
